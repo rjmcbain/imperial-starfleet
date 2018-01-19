@@ -4,8 +4,8 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
-import { InternalDefensesModule } from '/internal-defenses/internal-defenses.module';
-import { ExternalDefensesModule } from '/external-defenses/external-defenses.module';
+import { InternalDefensesModule } from './internal-defenses/internal-defenses.module';
+import { ExternalDefensesModule } from './external-defenses/external-defenses.module';
 
 
 
